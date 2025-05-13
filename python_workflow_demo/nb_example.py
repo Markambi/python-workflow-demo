@@ -10,3 +10,6 @@ self = StartCalculationGui(data={})
 display(self.tab)
 
 # %%
+import pandas as pd
+
+# %%
